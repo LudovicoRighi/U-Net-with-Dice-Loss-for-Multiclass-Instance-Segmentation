@@ -1,6 +1,6 @@
 # U-Net with Dice Loss for Multiclass Instance Segmentation
 
-In this repository you can find all the material used to take part at the competitions created for the Artifical Neural Networks and Deep Learning exam at Politecnico di Milano.
+In this repository you can find all the material used to take part at the competitions created for the Artifical Neural Networks and Deep Learning course at Politecnico di Milano.
 The goal of this challenge is to build the best model to solve a segmentation problem. The model should learn how to segment Crop, Weed and Background at pixel level in order to optimize the agricultural processes and to reduce the use of resources (water, fertilizers, and pesticides).
  
 <p align="left">
