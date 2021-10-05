@@ -4,8 +4,8 @@ In this repository you can find all the material used to take part at the compet
 The goal of this challenge is to build the best model to solve a segmentation problem. The model should learn how to segment Crop, Weed and Background at pixel level in order to optimize the agricultural processes and to reduce the use of resources (water, fertilizers, and pesticides).
  
 <p align="left">
-  <img width="24%"  src="https://user-images.githubusercontent.com/52406034/135988327-850399b7-d176-45c7-927a-0f8ef2de0f27.png">
-  <img width="24%" hspace="4%" src="https://user-images.githubusercontent.com/52406034/135988570-98bb2e95-c387-4c32-822e-1485a4270413.png">
+  <img width="45%"  src="https://user-images.githubusercontent.com/52406034/135988327-850399b7-d176-45c7-927a-0f8ef2de0f27.png">
+  <img width="45%" hspace="4%" src="https://user-images.githubusercontent.com/52406034/135988570-98bb2e95-c387-4c32-822e-1485a4270413.png">
 </p> 
 
 
