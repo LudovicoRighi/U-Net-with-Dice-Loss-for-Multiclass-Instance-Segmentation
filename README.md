@@ -5,7 +5,7 @@ The goal of this challenge is to build the best model to solve a segmentation pr
  
 <p align="left">
   <img width="48%"  src="https://user-images.githubusercontent.com/52406034/135988327-850399b7-d176-45c7-927a-0f8ef2de0f27.png">
-  <img width="48%" hspace="4%" src="https://user-images.githubusercontent.com/52406034/135988570-98bb2e95-c387-4c32-822e-1485a4270413.png">
+  <img width="48%" hspace="3%" src="https://user-images.githubusercontent.com/52406034/135988570-98bb2e95-c387-4c32-822e-1485a4270413.png">
 </p> 
 
 
